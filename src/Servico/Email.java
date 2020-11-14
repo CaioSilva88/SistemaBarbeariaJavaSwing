@@ -15,7 +15,7 @@ import org.apache.commons.mail.SimpleEmail;
  */
 public class Email {
     static final String REMETENTE_NOME = "caiopereirasilv@gmail.com";
-    static final String REMETENTE_SENHA = "c46404588a";
+    static final String REMETENTE_SENHA = "";
     private String assunto ;
     private String mensagem;
     private String destinatario;

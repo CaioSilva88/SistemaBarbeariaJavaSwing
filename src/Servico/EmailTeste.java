@@ -21,7 +21,7 @@ public class EmailTeste {
     public static void main(String[] args) {
          
         
-        Email email = new Email("Sistema do Caio", "Mensagem padrão do email da Barbearia"+"Usuario:FelipeSoster\n"+"Senha: 123456", "caiopsilv@gmail.com");
+        Email email = new Email("Sistema do Caio", "Mensagem padrão do email da Barbearia"+"Usuario:FelipeSoster\n"+"Senha: 123456", "aaaaaa@gmail.com");
         
         email.enviar();
         
